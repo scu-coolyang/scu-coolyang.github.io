@@ -1,5 +1,5 @@
 ---
-title: "Color constancy using double-opponency"
+title: "Study on bioequivalence of new Wubei fast-release tablet"
 collection: publications
 permalink: /publication/2019-09-28-paper-title-number-14
 excerpt: ''
