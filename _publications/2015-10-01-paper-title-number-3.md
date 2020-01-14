@@ -10,3 +10,4 @@ author: 'Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, Shaobing G
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
+author: 'Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, Shaobing Gao.'
