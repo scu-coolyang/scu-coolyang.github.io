@@ -1,7 +1,7 @@
 ---
 title: "Identifying structural hole spanners to maximally block information propagation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-29
+permalink: /publication/2019-10-08-paper-title-number-29
 excerpt: ''
 date: 2019-12-01
 venue: 'Information Sciences'
