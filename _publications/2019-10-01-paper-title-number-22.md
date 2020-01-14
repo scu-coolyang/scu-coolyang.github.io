@@ -1,7 +1,7 @@
 ---
-title: "Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning"
+title: "Improving color constancy by discounting the variation of camera spectral sensitivity"
 collection: publications
-permalink: /publication/2019-10-02-paper-title-number-23
+permalink: /publication/2019-10-02-paper-title-number-22
 excerpt: ''
 date: 2017-08-01
 venue: 'JOSA A'
