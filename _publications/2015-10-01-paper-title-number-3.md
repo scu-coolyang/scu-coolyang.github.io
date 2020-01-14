@@ -6,9 +6,7 @@ excerpt: ''
 date: 2019-12-01
 venue: 'Information Sciences'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, Shaobing Gao.'
+author: 'Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, Shaobing Gao.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation:Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, Shaobing Gao
