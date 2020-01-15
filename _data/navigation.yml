@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications of gsb"
+  - title: "Publications"
     url: /publications/
 
-  - title: "conference of gsb"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
