@@ -11,5 +11,5 @@ author: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1<
 
 author: Shao-Bing Gao, Ming Zhang, and Yong-Jie Li
 
-[Download paper here](https://www.osapublishing.org/captcha/?guid=6026E122-EF15-0603-5DDF-1C7D84B4478C)
+[Download paper here](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-18-25611)
 
