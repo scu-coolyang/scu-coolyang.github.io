@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "AIRG of gsb"
+  name             : "gsb"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Artificial intelligence research group of Mr. Gao"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
