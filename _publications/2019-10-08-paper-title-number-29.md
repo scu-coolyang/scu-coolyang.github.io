@@ -1,6 +1,5 @@
 ---
-title: "Identifying structural hole spanners to maximally block information propagation[Paper](http://users.cecs.anu.edu.au/~Weifa.Liang/papers/XLLYYG19.pdf)
-collection: publications"
+title: "Identifying structural hole spanners to maximally block information propagation collection: publications[Paper](http://users.cecs.anu.edu.au/~Weifa.Liang/papers/XLLYYG19.pdf)"
 permalink: /publication/2019-10-08-paper-title-number-29
 excerpt: ''
 date: 2019-12-01
