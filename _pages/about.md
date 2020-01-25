@@ -14,6 +14,8 @@ I’m an associate professor at College of Computer Science, Sichuan University,
 Research Interest
 ======
 Biologically Inspired Computational Vision: Color Constancy
+
 Image Processing: Early Visual Infromation Processing and It's Applications
+
 Medecial Image Processing 
 
