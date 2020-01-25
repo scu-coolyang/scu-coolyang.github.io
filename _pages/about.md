@@ -27,5 +27,5 @@ Research Interest
 
 For more info
 ------
-More info can be found in [the guide](https://academicpages.github.io/markdown/).
+More info can be found in [the guide](https://a.glgoo.top/citations?user=WkkdsIEAAAAJ&hl=zh-CN&oi=ao).
 
