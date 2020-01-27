@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ---
 **Identifying structural hole spanners to maximally block information propagation**
->>Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, **Shaobing Gao**
-
->>Information Sciences,2019
+	Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, **Shaobing Gao**
+	Information Sciences,2019
 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
