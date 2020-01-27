@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<font color=gray >* B.S. in Github, Github University, 2012</font>
+<font color=gray >B.S. in Github, Github University, 2012</font>
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
