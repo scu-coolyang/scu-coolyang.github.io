@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-<font color=#00ffff size=72>This is a description of a teaching experience. You can use markdown like any other post.</font>
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
