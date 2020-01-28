@@ -10,10 +10,19 @@ redirect_from:
   
   
 
----
+---  
+
 **Robust Sequence Recognition Using Biologically Inspired Temporal Learning Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901946)]  
 Yang Xiao, **Shaobing Gao**, Rui Yan  
-The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence
+The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence,2019  
+
+**Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning**[[paper](http://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning)]  
+Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber  
+31st Conference on Neural Information Processing Systems (**NIPS 2017**),2017  
+
+
+
+
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
