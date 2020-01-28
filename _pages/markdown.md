@@ -24,6 +24,9 @@ Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber
 Na Guo, Rong Xiao, **Shangbing Gao**, Huajin Tang  
 the 8th IEEE International Conference on Cybernetics and Intelligence,2017  
 
+**High Dynamic Range Image Rendering with a Luminance-Chromaticity Independent Model**[[paper](https://link.springer.com/chapter/10.1007/978-3-319-23989-7_23)]  
+**Shaobing Gao**, Wangwang Han, Yanze Ren, Yongjie Li  
+International Conference on Intelligent Science and Big Data Engineering,2015  
 
 
 
