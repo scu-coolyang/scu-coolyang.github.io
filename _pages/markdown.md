@@ -5,10 +5,12 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+---  
+  
+  
+  
+
 ---
-
-
-===
 **Robust Sequence Recognition Using Biologically Inspired Temporal Learning Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901946)]  
 Yang Xiao, **Shaobing Gao**, Rui Yan  
 The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence
