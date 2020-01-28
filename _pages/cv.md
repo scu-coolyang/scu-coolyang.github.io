@@ -43,6 +43,11 @@ Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber
 **Shao-Bing Gao**, Ming Zhang, Chao-Yi Li, Yong-Jie Li  
 JOSA A,2017
 
+**A portable image-based cytometer for rapid malaria detection and quantification**[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179161)]  
+Dahou Yang, Gowtham Subramanian, Jinming Duan, **Shaobing Gao**, Li Bai, Rajesh Chandramohanadas, Ye Ai  
+PLoS One,2017
+
+
 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
