@@ -40,6 +40,10 @@ European Conference on Computer Vision,2014
 **Shaobing Gao**, Kaifu Yang, Chaoyi Li, Yongjie Li  
 Proceedings of the IEEE international conference on computer vision,2013  
 
+**Efficient Color Boundary Detection with Color-Opponent Mechanisms**[[paper](http://openaccess.thecvf.com/content_cvpr_2013/html/Yang_Efficient_Color_Boundary_2013_CVPR_paper.html)]  
+Kaifu Yang, **Shaobing Gao**, Chaoyi Li, Yongjie Li  
+Proceedings of the IEEE conference on computer vision and pattern recognition,2013  
+
 
 
 
