@@ -47,6 +47,10 @@ JOSA A,2017
 Dahou Yang, Gowtham Subramanian, Jinming Duan, **Shaobing Gao**, Li Bai, Rajesh Chandramohanadas, Ye Ai  
 PLoS One,2017
 
+**Computational Models of Visual Adaptation and Color Constancy and Applications**[[paper](http://cdmd.cnki.com.cn/Article/CDMD-10614-1017103522.htm)]  
+**Shaobing Gao**  
+Doctoral Dissertation of University of Electronic Science and technology,2017  
+
 
 
 * M.S. in Jekyll, Github University, 2014
