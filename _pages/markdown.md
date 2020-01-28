@@ -20,6 +20,11 @@ The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence,2019
 Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber  
 31st Conference on Neural Information Processing Systems (**NIPS 2017**),2017  
 
+**A neurally inspired pattern recognition approach with latency-phase encoding and precise-spike-driven rule in spiking neural network**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8274824)]  
+Na Guo, Rong Xiao, **Shangbing Gao**, Huajin Tang  
+the 8th IEEE International Conference on Cybernetics and Intelligence,2017  
+
+
 
 
 
