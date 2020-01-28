@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SCU"
+title                    : "Introduction"
 title_separator          : "-"
 name                     : &name "demo"
 description              : &description "personal description"
