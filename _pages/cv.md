@@ -19,6 +19,10 @@ Information Sciences,2019
 **Shao-Bing Gao**, Ming Zhang, and Yong-Jie Li  
 Optics express,2019  
 
+**Underwater Image Enhancement Using Adaptive Retinal Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733992)]  
+**Shao-Bing Gao**, Ming Zhang, Qian zhao, Xian-Shi Zhang, and Yong-Jie Li  
+IEEE,2019
+
 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
