@@ -32,6 +32,10 @@ International Conference on Intelligent Science and Big Data Engineering,2015
 Kai-Fu Yang, **Shao-Bing Gao**, Yong-Jie Li  
 Proceedings of the IEEE conference on computer vision and pattern recognition,2015  
 
+**Efficient Color Constancy with Local Surface Reflectance Statistics**[[paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_11)]  
+**Shaobing Gao**, Wangwang Han, Kaifu Yang, Chaoyi Li, Yongjie Li  
+European Conference on Computer Vision,2014  
+
 
 
 
