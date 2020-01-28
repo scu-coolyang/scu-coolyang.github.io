@@ -1,10 +1,10 @@
 ---
-title: "基于x光图像的骨密度预测"
+title: "基于深度学习的x光图像的骨密度预测"
 collection: teaching
-type: "Undergraduate course"
+type: "项目负责人："
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "杨睿"
+date: 2019-01-01
 location: "City, Country"
 ---
 
