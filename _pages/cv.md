@@ -51,6 +51,10 @@ PLoS One,2017
 **Shaobing Gao**  
 Doctoral Dissertation of University of Electronic Science and technology,2017  
 
+**A Retinal Mechanism Inspired Color Constancy Model**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7378523)]  
+Xian-Shi Zhang, **Shao-Bing Gao**, Ruo-Xuan Li, Xin-Yu Du, Chao-Yi Li, Yong-Jie Li  
+IEEE Transactions on Image Processing,2016  
+
 
 
 * M.S. in Jekyll, Github University, 2014
