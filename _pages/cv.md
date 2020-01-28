@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For the full publications please view my **[google scholar]**(https://a.glgoo.top/citations?user=WkkdsIEAAAAJ&hl=zh-CN&oi=ao).
+For the full publications please view my [**google scholar**](https://a.glgoo.top/citations?user=WkkdsIEAAAAJ&hl=zh-CN&oi=ao).
 
 ---
 **Identifying structural hole spanners to maximally block information propagation**[[paper](http://users.cecs.anu.edu.au/~Weifa.Liang/papers/XLLYYG19.pdf)]  
