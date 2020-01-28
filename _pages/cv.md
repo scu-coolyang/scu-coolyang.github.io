@@ -35,7 +35,9 @@ Symmetry,2018
 yuhong liu, hongmei yan, **shaobing gao**, Kai-Fu Yang  
 IET Image Processing,2018  
 
-
+**Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning**[[paper](http://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning.pdf)]  
+Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber  
+31st Conference on Neural Information Processing Systems (**NIPS 2017**),2017
 
 
 
