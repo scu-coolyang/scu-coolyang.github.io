@@ -7,7 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+**Robust Sequence Recognition Using Biologically Inspired Temporal Learning Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901946)]  
+Yang Xiao, **Shaobing Gao**, Rui Yan  
+The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
