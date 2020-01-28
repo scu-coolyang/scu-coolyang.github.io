@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,11 @@ For the full publications please view my [google scholar](https://a.glgoo.top/ci
 **Identifying structural hole spanners to maximally block information propagation**[[paper](http://users.cecs.anu.edu.au/~Weifa.Liang/papers/XLLYYG19.pdf)]  
 Wenzheng Xu, Tong Li, Weifa Liang, Jeffrey Xu Yu, Ning Yang, **Shaobing Gao**  
 Information Sciences,2019  
+
+**Improving color constancy by selecting suitable set of training images**[[paper](http://scu-coolyang.github.io/files/1.pdf)]  
+**Shao-Bing Gao**, Ming Zhang, and Yong-Jie Li  
+Optics express,2019  
+
 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
