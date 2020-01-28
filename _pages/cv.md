@@ -61,7 +61,11 @@ Frontiers in computational neuroscience,2015
 
 **Color Constancy Using Double-Opponency**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7018983)]  
 **Shao-Bing Gao**, Kai-Fu Yang, Chao-Yi Li, Yong-Jie Li  
-IEEE transactions on pattern analysis and machine intelligence,2015
+IEEE transactions on pattern analysis and machine intelligence,2015  
+
+**Boundary Detection Using Double-Opponency and Spatial Sparseness Constraint**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7091908)]  
+Kai-Fu Yang, **Shao-Bing Gao**, Ce-Feng Guo, Chao-Yi Li, Yong-Jie Li  
+IEEE Transactions on Image Processing,2015
 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
