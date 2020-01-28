@@ -28,6 +28,10 @@ the 8th IEEE International Conference on Cybernetics and Intelligence,2017
 **Shaobing Gao**, Wangwang Han, Yanze Ren, Yongjie Li  
 International Conference on Intelligent Science and Big Data Engineering,2015  
 
+**Efficient Illuminant Estimation for Color Constancy Using Grey Pixels**[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yang_Efficient_Illuminant_Estimation_2015_CVPR_paper.html)]  
+Kai-Fu Yang, **Shao-Bing Gao**, Yong-Jie Li  
+Proceedings of the IEEE conference on computer vision and pattern recognition,2015  
+
 
 
 
