@@ -27,6 +27,11 @@ IEEE,2019
 **Shao-Bing Gao**, Yan-Ze Ren, Ming Zhang, Yong-Jie Li  
 IEEE Transactions on Image Processing,2019  
 
+**Multimedia Data Modelling Using Multidimensional Recurrent Neural Networks**[[paper](https://www.mdpi.com/2073-8994/10/9/370)]  
+Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He  
+Symmetry,2018  
+
+
 
 
 
