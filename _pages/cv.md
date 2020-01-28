@@ -31,6 +31,10 @@ IEEE Transactions on Image Processing,2019
 Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He  
 Symmetry,2018  
 
+**Novel criteria to evaluate the fidelity of image enhancement by MSRCR**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8362601)]  
+yuhong liu, hongmei yan, **shaobing gao**, Kai-Fu Yang  
+IET Image Processing,2018  
+
 
 
 
