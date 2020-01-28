@@ -67,6 +67,10 @@ IEEE transactions on pattern analysis and machine intelligence,2015
 Kai-Fu Yang, **Shao-Bing Gao**, Ce-Feng Guo, Chao-Yi Li, Yong-Jie Li  
 IEEE Transactions on Image Processing,2015
 
+**Study on bioequivalence of new Wubei fast-release tablet**[[paper](https://europepmc.org/article/med/24228594)]  
+Hu Chen, **SB Gao**, LJ Li, Rui Yan, Y Ji  
+Zhongguo Zhong yao za zhi= Zhongguo zhongyao zazhi= China journal of Chinese materia medica,2013
+
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
