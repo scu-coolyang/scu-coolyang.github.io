@@ -23,9 +23,3 @@ Research Interest
 - **Medecial Image Processing** 
 
 
-
-
-For more info
-------
-For the full publications please view my [google scholar](https://a.glgoo.top/citations?user=WkkdsIEAAAAJ&hl=zh-CN&oi=ao).
-
