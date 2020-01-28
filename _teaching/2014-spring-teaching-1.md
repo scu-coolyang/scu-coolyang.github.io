@@ -4,11 +4,11 @@ collection: teaching
 type: "项目负责人：杨睿"
 permalink: /teaching/2014-spring-teaching-1
 venue: ""
-date: 
+date: 2019-01-01
 location: "City, Country"
 ---
 
-项目负责人：杨睿
+
 
 Heading 1
 ======
