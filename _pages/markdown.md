@@ -36,6 +36,10 @@ Proceedings of the IEEE conference on computer vision and pattern recognition,20
 **Shaobing Gao**, Wangwang Han, Kaifu Yang, Chaoyi Li, Yongjie Li  
 European Conference on Computer Vision,2014  
 
+**A Color Constancy Model with Double-Opponency Mechanisms**[[paper](http://openaccess.thecvf.com/content_iccv_2013/html/Gao_A_Color_Constancy_2013_ICCV_paper.html)]  
+**Shaobing Gao**, Kaifu Yang, Chaoyi Li, Yongjie Li  
+Proceedings of the IEEE international conference on computer vision,2013  
+
 
 
 
