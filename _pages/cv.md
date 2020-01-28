@@ -55,6 +55,10 @@ Doctoral Dissertation of University of Electronic Science and technology,2017
 Xian-Shi Zhang, **Shao-Bing Gao**, Ruo-Xuan Li, Xin-Yu Du, Chao-Yi Li, Yong-Jie Li  
 IEEE Transactions on Image Processing,2016  
 
+**A Retina Inspired Model for Enhancing Visibility of Hazy Images**[[paper](https://www.frontiersin.org/articles/10.3389/fncom.2015.00151/full)]  
+Xian-Shi Zhang, **Shao-Bing Gao**, Chao-Yi Li, Yong-Jie Li  
+Frontiers in computational neuroscience,2015  
+
 
 
 * M.S. in Jekyll, Github University, 2014
