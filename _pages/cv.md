@@ -39,6 +39,9 @@ IET Image Processing,2018
 Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber  
 31st Conference on Neural Information Processing Systems (**NIPS 2017**),2017
 
+**Improving color constancy by discounting the variation of camera spectral sensitivity**[[paper](http://scu-coolyang.github.io/files/2.pdf)]  
+**Shao-Bing Gao**, Ming Zhang, Chao-Yi Li, Yong-Jie Li  
+JOSA A,2017
 
 
 * M.S. in Jekyll, Github University, 2014
