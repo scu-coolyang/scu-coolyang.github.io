@@ -21,9 +21,9 @@ Optics Express,2019
 
 **Underwater Image Enhancement Using Adaptive Retinal Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733992)]  
 **Shao-Bing Gao**, Ming Zhang, Qian zhao, Xian-Shi Zhang, and Yong-Jie Li  
-IEEE,2019  
+IEEE Transactions on Image Processing,2019  
 
-**Combining Bottom-Up and Top-Down Visual Mechanisms for Color Constancy Under Varying Illumination**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678788)]  
+**Combining bottom-up and top-down visual mechanisms for color constancy under varying illumination**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678788)]  
 **Shao-Bing Gao**, Yan-Ze Ren, Ming Zhang, Yong-Jie Li  
 IEEE Transactions on Image Processing,2019  
 
@@ -41,15 +41,15 @@ Zhen He, **Shaobing Gao**, Liang Xiao, Daxue Liu, Hangen He, David Barber
 
 **Improving color constancy by discounting the variation of camera spectral sensitivity**[[paper](http://scu-coolyang.github.io/files/2.pdf)]  
 **Shao-Bing Gao**, Ming Zhang, Chao-Yi Li, Yong-Jie Li  
-JOSA A,2017
+JOSA A,2017  
+
+**视觉颜色恒常和自适应性计算模型与应用研究 (Computational Models of Visual Adaptation and Color Constancy and Applications)**[[paper](http://cdmd.cnki.com.cn/Article/CDMD-10614-1017103522.htm)]  
+**Shaobing Gao**  
+电子科技大学博士学位论文,2017  
 
 **A portable image-based cytometer for rapid malaria detection and quantification**[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179161)]  
 Dahou Yang, Gowtham Subramanian, Jinming Duan, **Shaobing Gao**, Li Bai, Rajesh Chandramohanadas, Ye Ai  
 PLoS One,2017
-
-**Computational Models of Visual Adaptation and Color Constancy and Applications**[[paper](http://cdmd.cnki.com.cn/Article/CDMD-10614-1017103522.htm)]  
-**Shaobing Gao**  
-Doctoral Dissertation of University of Electronic Science and technology,2017  
 
 **A Retinal Mechanism Inspired Color Constancy Model**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7378523)]  
 Xian-Shi Zhang, **Shao-Bing Gao**, Ruo-Xuan Li, Xin-Yu Du, Chao-Yi Li, Yong-Jie Li  
