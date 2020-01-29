@@ -17,7 +17,7 @@ Information Sciences,2019
 
 **Improving color constancy by selecting suitable set of training images**[[paper](http://scu-coolyang.github.io/files/1.pdf)]  
 **Shao-Bing Gao**, Ming Zhang, and Yong-Jie Li  
-Optics express,2019  
+Optics Express,2019  
 
 **Underwater Image Enhancement Using Adaptive Retinal Mechanisms**[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733992)]  
 **Shao-Bing Gao**, Ming Zhang, Qian zhao, Xian-Shi Zhang, and Yong-Jie Li  

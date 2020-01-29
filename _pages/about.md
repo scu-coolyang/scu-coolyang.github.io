@@ -20,6 +20,6 @@ Research Interest
 - **Image Processing:** Early Visual Infromation Processing and It's Applications
 
 
-- **Medecial Image Processing** 
+- **Medical Image Processing** 
 
 
